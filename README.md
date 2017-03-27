@@ -1,2 +1,3 @@
 # svasorcery.github.io
-Init my GitHub Pages
+
+[enter page](https://svasorcery.github.io/index)
